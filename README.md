@@ -3,7 +3,7 @@ Adds lift based wingflex to select Community Contributed Airliners.
 
 **To Use**
 
-Go to www.geo-fs.com/geofs.php and select one of the supported aircraft.<br> Then copy the contents of "betterWingflex.js" into the console
+Go to www.geo-fs.com/geofs.php and select one of the supported aircraft.<br> Go to the latest release and copy the contents of "betterWingflex.js" into the console
 by pressing CTRL+SHIFT+I, then go to the "Console" tab. <br>
 Press enter. 
 
